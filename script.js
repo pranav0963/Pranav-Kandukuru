@@ -1,3 +1,1 @@
-document.addEventListener('DOMContentLoaded', () => {
-    // Add any JavaScript functionality here if needed
-});
+// Add any interactive functionality here
